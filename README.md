@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @16bit-prntz
+- 👋 Hi, I’m Mark@16bit-prntz owner of 16bitPRNTZ.com a Digital Image Printing Service
 - 👀 I’m interested in ... no/low code, AI, machine learning, graphics design, software art
 - 🌱 I’m currently learning ... graphics design, machine learning, web master stuff :)
 - 💞️ I’m looking to collaborate on ... machine learning and AI - specifically integrating these with low code tools
